@@ -1,2 +1,2 @@
 #This is your first exercise file. 
-pring (hello world) 
+print (hello world) 
